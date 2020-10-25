@@ -1,6 +1,13 @@
+.vs/
 .vscode/
 .idea/
 *.sln.iml
 
-obj
-bin
+*.user
+*.suo 
+*.userprefs
+*DS_Store
+*.sln.ide
+
+[Oo]bj/
+[Bb]in/
