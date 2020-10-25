@@ -1,0 +1,6 @@
+.vscode/
+.idea/
+*.sln.iml
+
+obj
+bin
